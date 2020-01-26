@@ -1,0 +1,215 @@
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdn-image.bisnis.com/posts/2018/07/05/813105/net2.jpg",NET TV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg.jpg",TRANS TV
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.infotelevisi.com/asset/images/tv/TRANS_7.jpg",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdn-image.bisnis.com/posts/2014/03/02/207098/cnn-indonesia.jpg",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.wowkeren.com/images/news/00143196.jpg",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1.jpg",RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png",GTV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.mncupdate.com/wp-content/uploads/MNCTV-Logo.png",MNC TV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdn-static.metube.id//live/image/vgBGkLoef8su35KBrgv3.png",MNC NEWS
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png",iNEWS
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.pinimg.com/originals/14/80/05/14800594bddd7afa6acf6ebf88ffd1d8.png",INDOSIAR
+http://210.210.155.35/session/107f3902-10ed-11ea-837e-80d19542705b/qwr9ew/s/s04/01.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdn-static.metube.id//live/logo/Ul5rcwZsR57nYsA6XLCi_rec_small.png",ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdn2.tstatic.net/makassar/foto/bank/images/logo-tv-one-2.jpg",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cutt.ly/peVc1jG",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13",TVRI
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8 
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13",TVRI K3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8 
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1088393745_b1128000_sleng.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13",KOMPAS TV
+http://210.210.155.35/session/6d220740-0ac9-11ea-888f-b82a72d63267/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-berita-satu-news-channel-5728.jpg",BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",THE INDONESIA
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ytimg.com/vi/gdk1toP3uBA/maxresdefault.jpg",RRI NET
+http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ytimg.com/vi/1CyFj270Dps/maxresdefault.jpg",TRIBRATA TV
+http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.gprtv.id/frontend/asset/img/gpr-logo.png",GPR TV
+http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
+  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",BMW TV
+http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",BNC
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1994806389/rbtv_400x400.jpg",RB TV
+http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i0.wp.com/hdkarir.com/wp-content/uploads/2019/02/rtv-logo.jpg",RTV
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdn-static.metube.id//live/image/kXtaNU27AHeeu8rt4TmV.png",JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13",JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1884746197/AdiTV_logo_400x400.jpg",ADITV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",AREK TV SURABAYA
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://video.tatv.co.id/wp-content/uploads/2018/01/cropped-icontatv.png",TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://sbctv.id/wp-content/uploads/2016/08/logo-SBC-300x150.png" group-title="NASIONAL",SBCTV JATIM
+http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
+  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-bios-tv.jpg",BBSTV SURABAYA
+#http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.radarcirebon.com/uploads/2013/06/rctv1.jpeg",RADAR CIREBON TV
+http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://tiny.cc/1hdrgz",CTV BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logobaraya.png/350px-Logobaraya.png",BARAYA TV
+http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/b3/20100702091225%21Logo_PadangTV.png",PADANG TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/489080497142628352/OC6q4ikG.jpeg",BENGKULU TV
+http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdn-kisikisi.qerja.com/assets/companies/images/logo/jambi-televisi-pt_fb.png",JAMBI TV
+http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2832620180822024844000001
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",BALI Elephant (New)
+http://video3.earthcam.com/fecnetwork/4338.flv/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/652416746750480384/TYoO6ShU_400x400.png",RADAR TASIKMALAYA TV
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",TABALONG TV
+http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
+  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i2.wp.com/tvdesa.id/wp-content/uploads/2018/06/TV-Dea-460.png?w=1080",TV DESA
+http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/739909905771945984/Bx6EALuh.jpg",KITANESIA
+http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/915122633863077888/T9DEP4OE.jpg",INSPIRA TV
+http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/821530216098955264/qU3k2rsQ.jpg",PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/41/RuaiTV_Bird.png",RUAI TV
+http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ytimg.com/vi/9gacTMW_hsw/maxresdefault.jpg",EFARINA TV
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
+  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",IN TV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i0.wp.com/www.bayutvnganjuk.com/wp-content/uploads/2018/04/bayutv-1.jpeg",BAYU TV
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/722811236103036928/u_S2PdCr_400x400.jpg",BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ytimg.com/vi/_KeZ1EFKxts/maxresdefault_live.jpg",GEMILANG TV
+http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",TEGAR LAMPUNG
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/94/PalTV_Palembang.png/320px-PalTV_Palembang.png",PAL TV
+http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1080773865687511040/5Wo09Cmx.jpg",NU CHANNEL
+http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.muslimstv.tv/logo/salingsapa.jpg",SALINGSAPA
+http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.oona.tv/assets/img/channels/dmi.png",DMI TV
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://www.tvislamonline.com/images/logo/nabawitv.png",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8 
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",AHSAN
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8?wowzasessionid=1713180485
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",MADANI
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1275887433
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",RODJA
+http://vids.rodja.tv:1935/live/rodja/chunklist_w1346030736.m3u8 
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="",TAHFIDZ
+http://119.235.249.58:1935/tahfidztv/live/chunklist_w975881254.m3u8
+  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ytimg.com/vi/oFTpz4DpUKA/hqdefault.jpg",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+ 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://pbs.twimg.com/profile_images/807272747873116160/npwrcKzj_400x400.jpg",SURAU TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+  
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.pinimg.com/236x/37/89/04/378904ab2c00a4517de4dfb48b6c0ce4.jpg",TV IKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
